@@ -1,9 +1,3 @@
----
-editor_options: 
-  markdown: 
-    wrap: 72
----
-
 # Replication Materials: Stochastic Modelling of Environmental Risk in Megacities
 
 This repository contains the `R` code required to reproduce the algorithms, Monte Carlo simulations, empirical results, tables, and figures presented in the manuscript:
